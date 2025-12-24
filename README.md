@@ -44,19 +44,16 @@
   <a href="https://t.me/egoryan8">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <!--<a href="https://vk.com/id762935619">
-    <img alt="Vk" src="https://img.shields.io/badge/vk-2131ff?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>-->
 </div>
 
 
 ### 📊&nbsp;My Activity: 
 <div>
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=egoryan8&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=egoryan8&show_icons=true&theme=react&hide_border=true&border_radius=5"/>
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=fogel-dev&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fogel-dev&show_icons=true&theme=react&hide_border=true&border_radius=5"/>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egoryan8&hide=css&langs_count=4&theme=react&hide_border=true&border_radius=5"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogel-dev&hide=css&langs_count=4&theme=react&hide_border=true&border_radius=5"/>
 </div>
 
 
